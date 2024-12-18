@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hola, soy Javi, un estudiante de ciberseguridad de 20 años, originario de Granada, España. Desde siempre he tenido una gran pasión por la tecnología, la informática y, en especial, por el ámbito de la seguridad digital. Estoy constantemente aprendiendo sobre nuevas herramientas, técnicas y conceptos para proteger sistemas y redes, así como para identificar vulnerabilidades y solucionarlas de manera efectiva.
+Hola, soy Javi, un estudiante de ciberseguridad de 20 años, originario de Granada, España. 🌍 Desde siempre he tenido una gran pasión por la tecnología, la informática y, en especial, por el ámbito de la seguridad digital. 🔐💻 Estoy constantemente aprendiendo sobre nuevas herramientas, técnicas y conceptos para proteger sistemas y redes, así como para identificar vulnerabilidades y solucionarlas de manera efectiva. 🛡️🛠️
 
-Me especializo en temas como pruebas de penetración, análisis de vulnerabilidades y desarrollo de scripts personalizados para automatizar tareas. Actualmente, estoy trabajando en proyectos personales que combinan programación y hacking ético, con el objetivo de fortalecer mis habilidades prácticas.
+Me especializo en temas como pruebas de penetración 🕵️‍♂️, análisis de vulnerabilidades 🧪 y desarrollo de scripts personalizados para automatizar tareas. 🤖 Actualmente, estoy trabajando en proyectos personales que combinan programación y hacking ético, con el objetivo de fortalecer mis habilidades prácticas. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javier-castillo-aka-jcreiv-47a42a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
