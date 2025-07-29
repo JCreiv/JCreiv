@@ -6,7 +6,7 @@ Me especializo en temas como pruebas de penetración 🕵️‍♂️, análisis
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-castillo-47a42a306)
 [![Blog](https://img.shields.io/badge/Blog-%2312100E.svg?logo=blogger&logoColor=white)](https://jcreiv.github.io)
-[![Portfolio Online](https://img.shields.io/badge/Blog-%2312100E.svg?logo=blogger&logoColor=white)](https://jcreiv.neocities.org/)
+[![Portfolio_Online](https://img.shields.io/badge/Blog-%2312100E.svg?logo=blogger&logoColor=white)](https://jcreiv.neocities.org/)
 
 
 # 💻 Tech Stack:
