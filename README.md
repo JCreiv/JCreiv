@@ -1,12 +1,11 @@
 # 💫 About Me:
-Hola, soy Javi, un estudiante de ciberseguridad nacido en 2004, vivo en Granada, España. 🌍 Desde siempre he tenido una gran pasión por la tecnología, la informática y, en especial, por el ámbito de la ciberseguridad. 🔐💻 Estoy constantemente aprendiendo sobre nuevas herramientas, técnicas y conceptos para proteger sistemas y redes, así como para identificar vulnerabilidades y solucionarlas de manera efectiva. 🛡️🛠️
+Hola, soy Javi, un estudiante de ciberseguridad nacido en 2004, vivo en Sevilla, España. 🌍 Desde siempre he tenido una gran pasión por la tecnología, la informática y, en especial, por el ámbito de la ciberseguridad. 🔐💻 Estoy constantemente aprendiendo sobre nuevas herramientas, técnicas y conceptos para proteger sistemas y redes, así como para identificar vulnerabilidades y solucionarlas de manera efectiva. 🛡️🛠️
 
 Me especializo en temas como pruebas de penetración 🕵️‍♂️, análisis de vulnerabilidades 🧪 y desarrollo de scripts personalizados para automatizar tareas. 🤖 Actualmente, estoy trabajando en proyectos personales, con el objetivo de fortalecer mis habilidades prácticas. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-castillo-47a42a306)
 [![Blog](https://img.shields.io/badge/Blog-%2312100E.svg?logo=blogger&logoColor=white)](https://jcreiv.github.io)
-
 
 
 # 💻 Tech Stack:
