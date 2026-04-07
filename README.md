@@ -5,10 +5,10 @@ Actualmente trabajo en monitorización de seguridad 24/7, coordinando respuesta 
 
 Me especializo en análisis de amenazas, investigación de alertas y remediación de phishing, así como en el desarrollo de scripts personalizados para automatizar tareas de Blue Team. Compagino mi trabajo con proyectos personales de hacking ético y laboratorios de pentesting para seguir fortaleciendo mis habilidades ofensivas.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-castillo-47a42a306)
 [![Blog](https://img.shields.io/badge/Blog-%2312100E.svg?logo=blogger&logoColor=white)](https://jcreiv.github.io)
-[![Portfolio Online](https://img.shields.io/badge/CV.online-%2312100E.svg?logo=blogger&logoColor=white)](https://jcreiv.neocities.org/)
+[![Portfolio Online](https://img.shields.io/badge/portfolio-%2312100E.svg?logo=blogger&logoColor=white)](https://jcreiv.neocities.org/)
 
 
 # Tech Stack:
