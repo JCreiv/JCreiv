@@ -11,7 +11,7 @@ Me especializo en análisis de amenazas, investigación de alertas y remediació
 [![Portfolio Online](https://img.shields.io/badge/CV.online-%2312100E.svg?logo=blogger&logoColor=white)](https://jcreiv.neocities.org/)
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ### 🛡️ SIEM & Monitoring
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
